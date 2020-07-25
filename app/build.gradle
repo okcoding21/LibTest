@@ -1,7 +1,5 @@
 apply plugin: 'com.android.application'
-apply plugin: 'com.github.dcendents.android-maven'
-group='teamup'
-version='1.0'
+
 
 android {
     compileSdkVersion 29
